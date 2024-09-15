@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file added 
+=======
+adithya new file added
+>>>>>>> 508eaf53a34a582677ce335762b5e7c46d601469
